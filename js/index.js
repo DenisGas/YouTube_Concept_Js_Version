@@ -1,5 +1,5 @@
-const API_KEY = 'AIzaSyDLG8OOSevLSUye5hWMz_hoq5yXZtiziSc';
-const CLIENT_ID = '453386367296-sj6od3ahhbcteg7gmoq2cr45f52dvqkr.apps.googleusercontent.com';
+const API_KEY = 'AIzaSxxxx';
+const CLIENT_ID = 'xxx.apps.googleusercontent.com';
 
 const gloAcademyList = document.querySelector('.glo-academy-list');
 const recommendedList = document.querySelector('.trending-list');
