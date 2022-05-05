@@ -1,6 +1,8 @@
-#НЕ РАБОТАЕТ!!!
+# НЕ РАБОТАЕТ!!!
+Не работает - нельзя зарегестрироваться ведь тут нет токена гугла.
 # YouTube_Concept_Js_Version - учебний проект Glo Academy
 Виполнил Денис Гасило
+
 
 ## My tube
 <a href='https://svgshare.com/s/Vv9' ><img src='https://svgshare.com/i/Vv9.svg' title='DenGas-Tube' /></a>
